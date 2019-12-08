@@ -1,3 +1,4 @@
+#code for analyze STRT-seq data of human macrophage project using seurat
 rm(list=ls())
 options(stringsAsFactors = F)
 
